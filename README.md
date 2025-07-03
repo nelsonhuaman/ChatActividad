@@ -11,7 +11,7 @@ Permite a múltiples usuarios conectarse de forma segura al mismo broker y comun
 Para ingresar a la aplicación puedes usar estas cuentas ya registradas en HiveMQ Cloud, en nombre en el chat puedes ingresar cualquier nombre.
 
 
-- **Usuario 2**  
+- **Usuario 1**  
   - Usuario MQTT: `Aluyis`  
   - Contraseña MQTT: `Qwer1234`
 
